@@ -1,0 +1,28 @@
+{
+  "name": "atlantistv-jokes",
+  "version": "1.0.0",
+  "description": "Jokes serves. Collect jokes from Atlantis-TV",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jokes",
+    "sg",
+    "api"
+  ],
+  "author": "Projmaks",
+  "license": "MIT",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "connect-sqlite3": "^0.9.11",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "express-validator": "^6.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "passport": "^0.4.0",
+    "sequelize": "^5.19.1",
+    "sqlite3": "^4.1.0",
+    "twig": "^1.13.3"
+  }
+}
