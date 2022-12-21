@@ -16,7 +16,7 @@
   "dependencies": {
     "connect-flash": "^0.1.1",
     "connect-sqlite3": "^0.9.11",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.16.2",
     "express-validator": "^6.2.0",
     "jsonwebtoken": "^8.5.1",
