@@ -18,10 +18,10 @@
     "connect-sqlite3": "^0.9.11",
     "express": "^4.17.1",
     "express-session": "^1.16.2",
-    "express-validator": "^6.2.0",
+    "express-validator": "^6.14.2",
     "jsonwebtoken": "^8.5.1",
     "passport": "^0.4.0",
-    "sequelize": "^5.19.1",
+    "sequelize": "^5.22.5",
     "sqlite3": "^4.1.0",
     "twig": "^1.13.3"
   }
